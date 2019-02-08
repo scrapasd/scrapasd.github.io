@@ -9,3 +9,4 @@
 #### I dislike to
 - sleep
 - blink
+[Mail your Queries here](asdmail045@gmail.com)
