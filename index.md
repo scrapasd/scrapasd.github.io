@@ -9,4 +9,4 @@
 #### I dislike to
 - sleep
 - blink
-[Mail your Queries here](asdmail045@gmail.com)
+[Mail your Queries here](mailto:asdmail045@gmail.com)
